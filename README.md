@@ -1,4 +1,5 @@
 # applied-traumacloud
+Scripts used for keyword extraction and visualisation in our Applied Cognitive Science exam project, June 2024
 
 Pipeline:
 
